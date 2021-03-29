@@ -77,6 +77,9 @@ ul.filterList li:hover,
 .selectedFilter {
     background: var(--color-Grey) !important;
 }
+ .unreadArticle {
+    color: #ee6600;
+}
 .toolbarTabs {
     padding-bottom: 0 !important;
 }
